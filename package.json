@@ -17,7 +17,7 @@
     "test": "test"
   },
   "peerDependencies": {
-    "react": ">=16.8.0 <18.0.0"
+    "react": ">=16.8.0"
   },
   "dependencies": {
     "fbemitter": "^3.0.0",
